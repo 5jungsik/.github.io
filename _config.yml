@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "5jungsik"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Hello."
   location         : "Somewhere"
-  email            :
+  email            : "wlseo1457@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
