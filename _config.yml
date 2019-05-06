@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "JUNGSIK CODEING"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "5jungsik"
+description              : "UNIVERSITY STUDENT(1)."
 url                      : "https://5jungsik.github.io" # the base hostname & protocol for your site e.g. "https://5jungsik.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
