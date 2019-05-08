@@ -30,3 +30,4 @@ categories: baekjoon 2941 CroatiaNumber 크로아티아 알파벳 algorithm
 <순서도>
 ![1557326876550](https://user-images.githubusercontent.com/50315641/57384572-d4071d00-71eb-11e9-8094-cfc1d974d207.jpg)
 
+[baekjoon-2941] : https://www.acmicpc.net/problem/2941
